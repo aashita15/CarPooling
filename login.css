@@ -187,6 +187,16 @@ a:hover{
 	cursor: pointer;
 	transition: .5s;
 }
+.signupbtn
+{
+	font-size: 1.2rem;
+	color: #fff;
+	font-family: 'Poppins', sans-serif;
+	text-transform: uppercase;
+	margin: 1rem 0;
+	cursor: pointer;
+	transition: .5s;
+}
 .btn:hover{
 	background-position: right;
 }
